@@ -1,0 +1,4 @@
+C:\ncs\v2.4.2\zephyr\modules\Kconfig.sysbuild
+C:\ncs\v2.4.2\zephyr\share\sysbuild\Kconfig
+C:\ncs\v2.4.2\zephyr\share\sysbuild\bootloader\Kconfig
+D:\nrf_sdk_kurssi\test_fw\build\Kconfig\Kconfig.sysbuild.modules

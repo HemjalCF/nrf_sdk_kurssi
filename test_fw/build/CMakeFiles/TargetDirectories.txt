@@ -1,0 +1,14 @@
+D:/nrf_sdk_kurssi/test_fw/build/CMakeFiles/sysbuild_guiconfig.dir
+D:/nrf_sdk_kurssi/test_fw/build/CMakeFiles/boards.dir
+D:/nrf_sdk_kurssi/test_fw/build/CMakeFiles/shields.dir
+D:/nrf_sdk_kurssi/test_fw/build/CMakeFiles/config-twister.dir
+D:/nrf_sdk_kurssi/test_fw/build/CMakeFiles/sysbuild_menuconfig.dir
+D:/nrf_sdk_kurssi/test_fw/build/CMakeFiles/menuconfig.dir
+D:/nrf_sdk_kurssi/test_fw/build/CMakeFiles/rebuild_cache.dir
+D:/nrf_sdk_kurssi/test_fw/build/CMakeFiles/test_fw.dir
+D:/nrf_sdk_kurssi/test_fw/build/CMakeFiles/hardenconfig.dir
+D:/nrf_sdk_kurssi/test_fw/build/CMakeFiles/guiconfig.dir
+D:/nrf_sdk_kurssi/test_fw/build/CMakeFiles/test_fw_cache.dir
+D:/nrf_sdk_kurssi/test_fw/build/CMakeFiles/edit_cache.dir
+D:/nrf_sdk_kurssi/test_fw/build/bootloader/CMakeFiles/edit_cache.dir
+D:/nrf_sdk_kurssi/test_fw/build/bootloader/CMakeFiles/rebuild_cache.dir

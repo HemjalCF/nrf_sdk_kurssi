@@ -1,0 +1,5 @@
+default: test_fw
+build_dir: D:/nrf_sdk_kurssi/test_fw/build
+domains:
+  - name: test_fw
+    build_dir: D:/nrf_sdk_kurssi/test_fw/build/test_fw

@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "D:/nrf_sdk_kurssi/test_fw/build/CMakeFiles/test_fw"
+		},
+		{
+			"file" : "D:/nrf_sdk_kurssi/test_fw/build/CMakeFiles/test_fw.rule"
+		},
+		{
+			"file" : "D:/nrf_sdk_kurssi/test_fw/build/CMakeFiles/test_fw-complete.rule"
+		},
+		{
+			"file" : "D:/nrf_sdk_kurssi/test_fw/build/test_fw-prefix/src/test_fw-stamp/test_fw-build.rule"
+		},
+		{
+			"file" : "D:/nrf_sdk_kurssi/test_fw/build/test_fw-prefix/src/test_fw-stamp/test_fw-configure.rule"
+		},
+		{
+			"file" : "D:/nrf_sdk_kurssi/test_fw/build/test_fw-prefix/src/test_fw-stamp/test_fw-download.rule"
+		},
+		{
+			"file" : "D:/nrf_sdk_kurssi/test_fw/build/test_fw-prefix/src/test_fw-stamp/test_fw-install.rule"
+		},
+		{
+			"file" : "D:/nrf_sdk_kurssi/test_fw/build/test_fw-prefix/src/test_fw-stamp/test_fw-mkdir.rule"
+		},
+		{
+			"file" : "D:/nrf_sdk_kurssi/test_fw/build/test_fw-prefix/src/test_fw-stamp/test_fw-patch.rule"
+		},
+		{
+			"file" : "D:/nrf_sdk_kurssi/test_fw/build/test_fw-prefix/src/test_fw-stamp/test_fw-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"test_fw"
+		],
+		"name" : "test_fw"
+	}
+}

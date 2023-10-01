@@ -1,0 +1,10 @@
+# ninja log v5
+0	279	7174678978000050	test_fw-prefix/src/test_fw-stamp/test_fw-mkdir	4f0744d3f0da539a
+279	366	7174678978874212	test_fw-prefix/src/test_fw-stamp/test_fw-download	8d9fbb00df6265db
+366	453	7174678979724355	test_fw-prefix/src/test_fw-stamp/test_fw-update	e6e873b6e3730fe3
+453	532	7174678980529493	test_fw-prefix/src/test_fw-stamp/test_fw-patch	ef1bb65c17626bd2
+532	611	7174678981314742	test_fw-prefix/src/test_fw-stamp/test_fw-configure	de9ff7bc4bfe7270
+611	23739	0	test_fw-prefix/src/test_fw-stamp/test_fw-build	413f313ab3a1ef59
+23739	23843	7174679213614001	test_fw-prefix/src/test_fw-stamp/test_fw-install	7dd27b9841aef79f
+23843	23986	7174679215050623	CMakeFiles/test_fw-complete	2e8222725265d01c
+23843	23986	7174679215050623	test_fw-prefix/src/test_fw-stamp/test_fw-done	2e8222725265d01c
