@@ -1,0 +1,10 @@
+# ninja log v5
+1	545	7173817791900901	blinky-prefix/src/blinky-stamp/blinky-mkdir	59b2a6d5a4a2775a
+545	671	7173817793164673	blinky-prefix/src/blinky-stamp/blinky-download	cb42ffc4986521ed
+672	783	7173817794281102	blinky-prefix/src/blinky-stamp/blinky-update	d949fdecb788303
+783	897	7173817795416918	blinky-prefix/src/blinky-stamp/blinky-patch	38d1445073256043
+897	1004	7173817796494870	blinky-prefix/src/blinky-stamp/blinky-configure	ce48c9621a801821
+1005	28003	0	blinky-prefix/src/blinky-stamp/blinky-build	3c2b1fd5c26753e0
+28003	28091	7173818067383608	blinky-prefix/src/blinky-stamp/blinky-install	57353112957c0236
+28091	28210	7173818068573017	CMakeFiles/blinky-complete	4485c8628a9c141c
+28091	28210	7173818068573017	blinky-prefix/src/blinky-stamp/blinky-done	4485c8628a9c141c

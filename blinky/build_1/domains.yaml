@@ -1,0 +1,5 @@
+default: blinky
+build_dir: D:/nrf_sdk_kurssi/blinky/build_1
+domains:
+  - name: blinky
+    build_dir: D:/nrf_sdk_kurssi/blinky/build_1/blinky

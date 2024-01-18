@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "D:/nrf_sdk_kurssi/blinky/build_1/CMakeFiles/blinky"
+		},
+		{
+			"file" : "D:/nrf_sdk_kurssi/blinky/build_1/CMakeFiles/blinky.rule"
+		},
+		{
+			"file" : "D:/nrf_sdk_kurssi/blinky/build_1/CMakeFiles/blinky-complete.rule"
+		},
+		{
+			"file" : "D:/nrf_sdk_kurssi/blinky/build_1/blinky-prefix/src/blinky-stamp/blinky-build.rule"
+		},
+		{
+			"file" : "D:/nrf_sdk_kurssi/blinky/build_1/blinky-prefix/src/blinky-stamp/blinky-configure.rule"
+		},
+		{
+			"file" : "D:/nrf_sdk_kurssi/blinky/build_1/blinky-prefix/src/blinky-stamp/blinky-download.rule"
+		},
+		{
+			"file" : "D:/nrf_sdk_kurssi/blinky/build_1/blinky-prefix/src/blinky-stamp/blinky-install.rule"
+		},
+		{
+			"file" : "D:/nrf_sdk_kurssi/blinky/build_1/blinky-prefix/src/blinky-stamp/blinky-mkdir.rule"
+		},
+		{
+			"file" : "D:/nrf_sdk_kurssi/blinky/build_1/blinky-prefix/src/blinky-stamp/blinky-patch.rule"
+		},
+		{
+			"file" : "D:/nrf_sdk_kurssi/blinky/build_1/blinky-prefix/src/blinky-stamp/blinky-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"blinky"
+		],
+		"name" : "blinky"
+	}
+}

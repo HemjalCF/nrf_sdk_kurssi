@@ -1,0 +1,13 @@
+# Target labels
+ blinky
+# Source files and their labels
+D:/nrf_sdk_kurssi/blinky/build_1/CMakeFiles/blinky
+D:/nrf_sdk_kurssi/blinky/build_1/CMakeFiles/blinky.rule
+D:/nrf_sdk_kurssi/blinky/build_1/CMakeFiles/blinky-complete.rule
+D:/nrf_sdk_kurssi/blinky/build_1/blinky-prefix/src/blinky-stamp/blinky-build.rule
+D:/nrf_sdk_kurssi/blinky/build_1/blinky-prefix/src/blinky-stamp/blinky-configure.rule
+D:/nrf_sdk_kurssi/blinky/build_1/blinky-prefix/src/blinky-stamp/blinky-download.rule
+D:/nrf_sdk_kurssi/blinky/build_1/blinky-prefix/src/blinky-stamp/blinky-install.rule
+D:/nrf_sdk_kurssi/blinky/build_1/blinky-prefix/src/blinky-stamp/blinky-mkdir.rule
+D:/nrf_sdk_kurssi/blinky/build_1/blinky-prefix/src/blinky-stamp/blinky-patch.rule
+D:/nrf_sdk_kurssi/blinky/build_1/blinky-prefix/src/blinky-stamp/blinky-update.rule
